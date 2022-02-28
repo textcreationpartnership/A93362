@@ -1,0 +1,166 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the meek and open hearted lambes, and flock of heaven, in meekness of love, with greetings of peace from the seat of infinite mercy; tendered unto and sent to be read among them all, who live in the humble state.</title>
+            <author>Smith, Humphrey, d. 1663.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1662</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93362</idno>
+            <idno type="STC">Wing S4081A</idno>
+            <idno type="STC">ESTC R214019</idno>
+            <idno type="EEBO-CITATION">43078144</idno>
+            <idno type="OCLC">ocm 43078144</idno>
+            <idno type="VID">151721</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93362)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151721)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2273:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the meek and open hearted lambes, and flock of heaven, in meekness of love, with greetings of peace from the seat of infinite mercy; tendered unto and sent to be read among them all, who live in the humble state.</title>
+                  <author>Smith, Humphrey, d. 1663.</author>
+                  <author>Baley, Charles.</author>
+               </titleStmt>
+               <extent>[7] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1662?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed Humphrey Smith on p. 5 and H.S. on p. 6.</note>
+                  <note>Date of publication suggested by Wing.</note>
+                  <note>P. 7 signed: ... Charles Baley, seen and given forth in Dover prison the 15th day of the 1 month, 1661.</note>
+                  <note>Reproduction of original in: British Library, London, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  England --  Pastoral letters and charges.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div n="Humphrey Smith" type="letter">
+            <pb facs="tcp:151721:1" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:151721:1"/>
+            <head>To the meek and open hearted Lambes, and Flock of Heaven, in meekneſs of Love, with Greetings of Peace from the Seat of Infinite Mercy; tendered unto, and ſent to be read among them all, who live in the humble State.</head>
+            <p>THere was a time of blackneſs and darkneſs which covered all fleſh, and the guilt of ſin was upon all conſciences; and hardneſs of heart poſſeſſed every veſ<g ref="char:EOLhyphen"/>ſel, and the minds of all was a ſtray from God, and their ſouls in the bonds of ini<g ref="char:EOLhyphen"/>quity, in the day when none was able to deliver his brother, O who can utter the diſtreſs and the languiſhing ſtate, which the ſheep then ſcattered were in, O the ſe<g ref="char:EOLhyphen"/>cret groanes of the outcaſts of <hi>Iſrael</hi> which God hath now gathered, why ſhould it be forgotten, who could pluck their feet then out of the ſnare, or deliver their ſoul from death; had not the Lord in mercy looked down from Heaven, ſurely many had ſunk in the pit of miſery, and never come to ſee the light of the morning, for the which the bowels of the humble yearned in ſecret, and the ſights were deep in the ſolli<g ref="char:EOLhyphen"/>tary place.</p>
+            <p>And then did the Lord in the bowels of his mercy let open his eare, and for his own names ſake had regard unto the complaint of the poor and needy, and he cauſed light to break out of darkneſs, and truth to ſpring from its ſecret hidden place, and life to grow up in the midſt of death, and to break through the powers of darkneſs, and the Lord in his power gave utterance to his ſervants and meſſengers, and then were the words of his truth as food to the hungry, and with much gladneſs of heart was the ſound of the way of life by many received; then did love begin to ariſe in the heart, and a tenderneſs in the bowels, and a willingneſs in the mind, and then was a joy like the joy of harveſt among the people, and many began to invite one another, ſaying come and we will return to the Lord, and we will reſolve to walk in his paths for ever, then was the voice of thanksgiving among the People, and the wayes of the Lord became more delightſome then Gold, and the footſteps of righteouſneſs more pleaſant than all the Treaſure in the world. O it even melts the heart to remember the dayes that are paſt, and to conſider the infinite goodneſs of him that is the God of the poor and needy, then were many made willing to run and to leave their filthy gar<g ref="char:EOLhyphen"/>ments
+<pb n="2" facs="tcp:151721:2"/> behind them, even before they well knew how to do it, O how loathſome was ſin in that day, and how weariſome was the land of darkneſs, and how deſirable e<g ref="char:EOLhyphen"/>ven beyond expreſſion, was the unſatisfied thirſting ſoul after the preſence of God: could the treaſure of the earth then have given peace? or could Silver have ſatiſ<g ref="char:EOLhyphen"/>fied the hungry heart? or could the choyſeſt love of the moſt neareſt relations have quenched the thirſt of the perched ground? Surely none but the Lord was then de<g ref="char:EOLhyphen"/>ſired, yea other lovers became as loathſome, and other delights became burthen<g ref="char:EOLhyphen"/>ſome to the weary Travellers and all vanities began to vaniſh as a vapour of ſmoak, and the wind of Heaven was dayly a ſcattering the chafe, and the barren Womb mourned for the quickning life of God, who had put it into the hearts of his long afflicted ſcattered ones, to follow him in the wayes of truth and equity, and then did the Lord viſit ſuch again and again in his loving kindneſs, by his ſervants, whoſe living words of truth through them, did yet more open the underſtandings, and hearts, and ſatisfie the judgements of the humble people, in the knowledge of the way to reſt and peace, in leaving the evil and chuſing the good, and to walk and come to live therein for ever.</p>
+            <p>And then came the time of tryal and exerciſe, when the croſs muſt be taken up to the worlds wayes, and alſo fooliſh vanities left behind, and the needleſs words no longer uſed, nor that religion continued any longer, in which made nothing perfect: then did the people gaze and wonder, and the relations and the acquaintance ſtood like as from <hi>David</hi> afar off, and then was every ones greateſt enemy with the light found in his own houſe, then did the Tribes of the earth mourn, then did the Drag<g ref="char:EOLhyphen"/>gon ſtretch forth his power, then did the doubtings, and fears, and thoughts, and un<g ref="char:EOLhyphen"/>belief come roleing in like floods, O the ſtraights that many then were in, even ſeem<g ref="char:EOLhyphen"/>ing greater than any before, and none but the Lord could deliver, ſo that then the cries were doubled, and the ſecret groanes came on a freſh again, and the greater the cries of ſuch were, the more they prevailed with him that was to help, but with his rod he forced them to ſubmit unto his will, by departing out of that which had cauſed him to frown upon them, and by leaving that which had polluted their dwel<g ref="char:EOLhyphen"/>ling, and as they began to obey him therein, ſo he began to let forth the ſmiles of his favour towards them, and when they offended again he chaſtized them ſore, and ſcourged them for their negligence, and corrected them becauſe they forgot their obedience to his will, and as thereby they drew neer unto him, he eaſed the ſtroak of his Iuſtice, &amp; let them taſt of his mercy, &amp; ſometimes invited them with love as a father draweth the child: and thus he left not working with them, and in them by his own ſecret wiſdome and power, until he had brought them to be after the de<g ref="char:EOLhyphen"/>ſire of his heart, that he might delight in them for ever, and that they might never more be ſcattered upon the ba<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ren hills, nor yet the dark mountains.</p>
+            <p>And as obedience in truth and Innocency was willingly yeilded to the Lord; peace began to take hold; and ſatisfaction got ſome entrance, and a little ſecret
+<pb n="3" facs="tcp:151721:2"/> hope there was which became as an Ancker to the ſoul, againſt the stormy time, and alſo in the midſt thereof; and as Iniquity was departed from ſo there came into the humble heart ſome ſatisfaction from God; and ſome stability in his way of righteouſneſs, and then refreſhings of life attended the heart in the morning, and the water which revieweth the Thirsty began to open it ſelf in the midſt of a barren Land; and then nothing was more deſired then the living upon that food with which the God of heaven doth nouriſh only his Children; which he freely gave and brought down even neer to the Tents of <hi>Iſrael,</hi> and he cauſed them to know his ſtatutes and his judgments, and he put his perfect Law in the midst of them, and his mercy Seat within the Vaile, that they might aske Counſel at the living Oracle, and he gave them his ſpirit, which all the circumciſed of heart do rightly know to be the cheifeſt good, and to this end did he beſtow that most pretious gift upon them, and gave that ſpirit of life into them, even to guid, counſel, and direct, informe, inſtruct, reprove, defend, and ſuccour them and nouriſh their ſouls for evermore, and ſo he ſet before them the way in which they ſhould walk with him, wherein he would be their father and the Rock of their ſtrength, and made known unto them the ſecret misteries of his heavenly beſſed will, which had been long concealed; and doth yet ſo remaine form the diſobedient, and covered from the Children of men.</p>
+            <p>And when even the God of <hi>Abraham Iſack</hi> and <hi>Iacob</hi> had done all this, and much more for you. O ye now well beloved freinds: then did he begin to try your patience, and to excerciſe you yet further to prove you, and to make known unto you even more that which had long been in the heart, and then he ſuffered a calme to come over you &amp; much quietneſs there was with many &amp; then did the enemy begin to aſay again to bring into careleſneſs, and preſent a ſpirit of ſlumber, with dulneſs, and negligence attending, and then the ſeed was again burthened therewith, and the upright hearted durſt not give way thereunto, before whoſe eyes the pure hea<g ref="char:EOLhyphen"/>venly fear ſtill remaineth, ſurely it were almoſt endleſs to relate the ſundry tryals and ſtates which hath been known among the flock of <hi>Jacob.</hi> Who could have be<g ref="char:EOLhyphen"/>leived that the ſtrong ſhould have been ſo tempted as they were, and the mighty ſo aſaulted divers ways as they have been, and yet that the weakeſt who continued in the grace, which teacheth to deny ungodlineſs ſhould stand and remaine, and how wonderfully hath the Lord preſerved his whole flock unto this day, even ſo that with true gladneſs of heart in living praiſes it might truly be ſaid, that no weapon formed againſt Gods <hi>Iſrael</hi> hath to this day yet ever proſpered, though no man hath appeared either in felld or Court on their behalfe, nor viſable hand appear<g ref="char:EOLhyphen"/>ed for the defence of the flock of Heaven, O where is that Lamb of the fould who now ſtands in the Covenant of redemption that cannot breath forth the praiſes of God, in the heart breaking power of his Love and the ſenſible feeling of his tender unſpeakable mercies; Behold O freinds the goodneſs of God is unutterable, ye I have not words to expreſs it, and ſuch that feel it may tast of it, and drink of the fulneſs
+<pb n="4" facs="tcp:151721:3"/> thereof, beyond the narrowneſs of my broaken ſpeech, and let ſuch draw neere unto me, and let theſe that which bendeth and cloaſeth up in the bowels, that we may meet at the entrance of Wiſdomes gate, and live one with another and one in ano<g ref="char:EOLhyphen"/>ther, ſo as the world did never know; neither in their nature ſhall ever underſtand for my heart is fil'd with love, and my dwelling is inlarged with the boundleſs borders of peace and my life ſtreames forth in meekneſs; Behold there is none can ſtop it, where the ſeed ſprings up as a Lilly, and where the dawning of the day is witneſſed, where undefiled love which cannot think evil hath its reſting place, and where the true ſimplicity of meekneſs remaines.</p>
+            <p>Even there my lines are read, my words are heard my mind is known my lan<g ref="char:EOLhyphen"/>guage underſtood my love received, and even my life takes enterance; What ſhall I ſay I am with, neere or in the midſt of all the Innocent Lambs by the vertue of that power and inviſible ſpirit which filleth all in all? and in ſilence with you could I long reſt, where the world ſhould neither know nor yet perceive me, and the ſame bread which I receive in the inviſible power, and break unto, or diſperce among the Lambs of God; who can feed upon no other, Even ſo the ſame is it by which my ſoul at preſent doth live, Yea behold I live who once was dead: And my life is hid among the reſt with Chriſt in him, from whence the Heavenly food, and the ſouls ſaving, and hearts ſatisfying power doth come.</p>
+            <p>And this is to ſtir up your minds, &amp; to put you in remembrance of the Lords dea<g ref="char:EOLhyphen"/>ling with you, and his large Loving kindneſs towards you and his effectual work of love in you, that you may never forget him, nor be unmindful of his fatherly pity to<g ref="char:EOLhyphen"/>wards us all, when we were all in our low eſtate, and that you may feel the revivings of his vertue and the Inlivnings of his power, and the quicknings of his Spirit, That yea may grow therein and wax fruitfull to God: and come to be ſeated, and eſta<g ref="char:EOLhyphen"/>bliſhed in the land of life, Bleſſed from Heaven, with much more fruitful in<g ref="char:EOLhyphen"/>creaſe then the Land of <hi>Goſhan;</hi> That the fruit of <hi>Lebannon</hi> may be known and the Roſe of <hi>Sharon,</hi> and your ſelves as the Ceaders that are full of S<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ap and your life as the Vine that never wanteth nouriſhment, whoſe fruit aboundeth to the glading of the Vine Dreſſor, That the Lord my rejoyce over his heritage, and delight himſelf in the midſt of <hi>Zion,</hi> and be glorified in his people, and admired of all them that beleive.</p>
+            <div type="part">
+               <p>THe Lord God of Heaven preſerve all every where, in the Love long ſuffering, forbearance meekneſs; gentleneſs; out of the ſtrife, or ſelf ſeeking: For ſurely woe will come upon that Spirit wherever the Lord finds it, and even the Lord knoweth the deſires of my heart in true ſimplicity hath been, That his righ<g ref="char:EOLhyphen"/>teous
+<pb n="5" facs="tcp:151721:3"/> Iudgments might paſs betimes upon every appearance thereof in my ſelf, Neither do I believe that God will ever proſper it in any; nor any with it; There<g ref="char:EOLhyphen"/>fore my Exhortation in the Everlasting Love of the God of Heaven is. That you all every where live in true brotherly love, and remember <hi>Ioſephs</hi> advice to his breathren, that they fall not out by the way: The Heavenly God of power, and life and vertue keep you out of all this, in the life of Wiſdome and meekneſs; where Strife ſhall never inhabit, nor death enter within the walls of <hi>Zion,</hi> in which their dwelling is, who keep themſelves undefil'd, and remaines in the fear of God, to whom I commit you all, and to the power of the word of his ſaving grace, praying to the Lord for you, That ever more you may continue in the Love of Chriſt. From the feelling and refreſhings whereof in the heart, this is written unto you by him that in the truth can ſerve the leaſt of you,</p>
+               <closer>
+                  <signed>Being your Freind Humphery Smith.</signed>
+               </closer>
+            </div>
+         </div>
+         <div n="Humphrey Smith" type="letter">
+            <p>ANd Friends this is a time of quietneſs &amp; ſtillneſs, or a time for you ſo to be, and there hath been a large time of gathering; &amp; for convincing, &amp; now the Lord is proving and trying them that are gathered. And after this time bleſſed and thrice happy ſhall they be that are found faithful in it, and worthy to be Crowned with Heavenly honour, and to be further imployed in Gods ſervice, and to remaine as Pillers among the flock of Heaven, and as Lights to invite others home to the dwelling of God. And now ſhould all friends be kept in wiſdome; and take heed what words they uſe among men, or concerning any men, though they do contrive againſt us; had the Lord left us where they are, and ſet them where he hath pla<g ref="char:EOLhyphen"/>ced us: then might we have been this day as ignorant of the way of peace towards Enemies, and of the path of Innocency and Righteouſneſs as they now are, but the Lord hath ſhewed us mercy; And I ſay the God of heaven forgive them and defend us; And all that dwels in this may come at laſt to ſee a time of grea<g ref="char:EOLhyphen"/>ter gathering then ever yet was; Oh my Pen cannot write it. And if all were quiet in their own meaſures, and little at all were moved in that meaſure, either to write, Print or ſpeak at this time, waiting ſingly upon God; Oh he would plead for us, and he alone would help us, and keep us as in his Armes, until the indignati<g ref="char:EOLhyphen"/>on were over paſt, And this I write that you might know of my continual confidence in the Lord, if he had, or did not at this time raiſe up, or make uſe of any of us to help him, or to be workers together with him. But a remnant he hath whoſe hearts he Inlargeth with prayer, and ſome of them with ſtrong inward deſires and groans &amp; ſome with uttrance to declare the good will of God unto others in your aſſemblys, and ſome ſteadfaſtly to believe in God that he will never leave us, and all this aſ<g ref="char:EOLhyphen"/>cends up before the Lord even as one ſacrifice, and he that hath heard and had mercy on us when we were not his people, and turned not back our complaints in that day; O how ſhall he now forget us, now we are his people, and are purchaſed unto
+<pb n="6" facs="tcp:151721:4"/> him with a Randſome more pretious then all the Gold in the World; who is it a<g ref="char:EOLhyphen"/>mong all the flock of God; but have already had much experience of his Love, good will and mercy; and wherefore then ſhould any of the ſons or daughters of <hi>Zion,</hi> ſuppoſe that God will ever forſake or leave them in diſtreſs; I even ſay doubtleſs and certainly it will not be ſo, but the Lord will ſtand by us; and the God of the whole earth will go before us, and the wonderful, dreadful, powerful preſence of the moſt high will be with us, over us, amongſt us, and in us, for ever more, and we ſhall certainly be preſerved by his power.</p>
+            <p>And by this my tenders of love in thoſe Lines, all the dear and humble hearted freinds of Chriſt may hear from me, and underſtand that ſomthing of the virtue of the Vine, is, and remaineth in me, and if the will of God ſhould be ſo, that my body ſuffer in this cloſe unſavory Priſon many months or ſeveral years longer, yet ſhall the Lord be my God for ever and my reſt unto the end of troubles, and in ſilence and ſecret ſhall, and doth, my heart and ſoul, poure forth interceſſion to the Throne of power, in the behalfe of his own truth and people, and for every feeble plant which God hath planted.</p>
+            <p>And when I have put you in mind that you ought not to forſake the aſſembling of your ſelves together, I leave you to God at preſent.</p>
+            <closer>
+               <signed>H. S.</signed>
+               <dateline>
+                  <hi>Wincheſter</hi> Priſon <date>the 30th of the firſt Month 1662.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div n="Charles Baley" type="letter">
+            <p>ANd you ſhould all take heed of that which would lead you up an eaſier way then by the light that condemns ſin, and verrifies and troubles you; for by it doth God ſpeak, and in it calls for repentance; and in it strive with you, and many more ſo strongly, that they cannot rest night nor day, being not yet reconcile to it, but this conſider that this will not always strive with you, therefore while the light is, and is not put out, if you will hear his voice, by whome God ſpeaks peace, that peace you might enjoy for ever, then take heed of that by which a hardneſs comes upon the heart, and a Vaile ſo thick with unbeliefe that the true mourning is done away there cannot be then a ſecret crying unto the Lord; for helpe and deliverance in the true brokeneſs of heart, which openeth it to God; with bowels of Love and teares, wherby Gods mercy is felt, but a hardneſs upon the heart, and a wrong thing aske for peace in the unbeliefe, from that, which darkneth, trke heed of this thing, and this know aſſuredly that when trouble comes in the inward parts, and the rumour of War is hard between the two Nations, <hi>Jacob</hi> and <hi>Eſau</hi> both in the Womb, and the light condemning in the heart, which hath been Fleſhly, and the Witneſs of God awak<g ref="char:EOLhyphen"/>ning the Conſcience that then if there be not a brokeneſs thereby, and a mollifying of the heart and a humbling of the lofty part, then will hardneſs take place, and Rebel<g ref="char:EOLhyphen"/>lion prevail with thee against the light. Therefore in its ſeaſon let theſe things have entrance in you, and come to that which can receive it in love faithfulneſs, and plaineſs as it is written.</p>
+            <pb facs="tcp:151721:4" rendition="simple:additions"/>
+            <p>DEare Lambs of my Fathers fould, keep cloſe together in the unity of the holy Spirit, in this day which is coming upon you, for you will be driven as ſheep to the ſlaughter, but I ſay, in that which was, before the wrath of the enemy was, fear not, for the horſe and the rider ſhall be overthrown, by which the rider ſhall be diſinabled to go on in his purpoſe: for I looked and beheld, that the fore feet of his horſe was chained, and a fence was in his way, and by reaſon of the eagerneſs of his horſe, he was overthrown, by which means he was maimed of his arme; and you were left upon your green Pa<g ref="char:EOLhyphen"/>ſtures, though ſome of your wooll was ſcattered and waſted, which is the worſt thing that ſhall befal you: if you keep cloſe to God, he will certainly keep you in this day and houre which is coming, yea and is even at hand, watch and pray, that ye enter not into temptation, yea, what I ſay unto one, I ſay unto all, watch, and fear not man, but God, ſo will you be kept clean over all to his everlaſting praiſe for ever and ever ſo ſaith my ſoul Amen.</p>
+            <closer>
+               <signed>Who am your ſuffering Brother, known by the name of Charles Baley.</signed>
+               <dateline>Seen and given forth in <hi>Dover</hi> priſon <date>the <hi>15th.</hi> day of the 1 month, 1661.</date>
+               </dateline>
+            </closer>
+            <trailer>The End.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
